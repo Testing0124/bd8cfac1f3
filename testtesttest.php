@@ -1,0 +1,4 @@
+ABC
+<?php
+
+echo("ABCDEF");
